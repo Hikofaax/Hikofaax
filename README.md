@@ -39,8 +39,7 @@ Je suis un développeur passionné, toujours curieux de découvrir de nouvelles 
 ## Retrouvez-moi sur Discord
 
 
-![Discord](https://img.shields.io/discord/1343353763091583137?style=social&logo=discord&logoColor=%238a40aa&label=HK-Store&cacheSeconds=1&link=https%3A%2F%2Fdiscord.gg%2FpxdNuM9bjF)
-
+[![Discord](https://img.shields.io/discord/1343353763091583137?style=social&logo=discord&logoColor=%238a40aa&label=HK-Store)](https://discord.gg/bQXmqNjzVr)
 
 
 
